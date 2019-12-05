@@ -1,2 +1,2 @@
 # p5project
-amp 100
+mp 100
