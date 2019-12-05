@@ -1,2 +1,2 @@
 # p5project
-mp 100
+mmp 100
